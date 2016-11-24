@@ -240,7 +240,7 @@ ul.navbar-nav li.active .dropdown-menu > .active > a:focus { background: #18463f
 .slider-2-text h1 {
 	padding-left: 30px;
 	padding-right: 30px;
-	font-family: 'Lobster', sans-serif;
+	font-family: 'Segoe UI', sans-serif;
     font-size: 30px;
     color: #fff;
     font-weight: bold;
@@ -261,7 +261,7 @@ ul.navbar-nav li.active .dropdown-menu > .active > a:focus { background: #18463f
 }
 
 .presentation-container h1 {
-    font-family: 'Lobster', sans-serif;
+    font-family: 'Segoe UI', sans-serif;
     font-size: 30px;
     color: #5d5d5d;
     font-weight: bold;
@@ -288,7 +288,7 @@ ul.navbar-nav li.active .dropdown-menu > .active > a:focus { background: #18463f
     width: 200px;
     margin: 0 auto;
     background: #fff;
-    font-family: 'Lobster', sans-serif;
+    font-family: 'Segoe UI', sans-serif;
     font-size: 24px;
     color: #5d5d5d;
     font-weight: bold;
@@ -341,11 +341,11 @@ ul.navbar-nav li.active .dropdown-menu > .active > a:focus { background: #18463f
 }
 
 .work-title h2 {
-    width: 220px;
+    width: 500px;
     margin: 0 auto;
     background: #fff;
-    font-family: 'Lobster', sans-serif;
-    font-size: 24px;
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 30px;
     color: #5d5d5d;
     font-weight: bold;
 }
@@ -406,7 +406,7 @@ ul.navbar-nav li.active .dropdown-menu > .active > a:focus { background: #18463f
     width: 180px;
     margin: 0 auto;
     background: #fff;
-    font-family: 'Lobster', sans-serif;
+    font-family: 'Segoe UI', sans-serif;
     font-size: 24px;
     color: #5d5d5d;
     font-weight: bold;
@@ -548,7 +548,7 @@ footer {
 .page-title-container h1 {
     display: inline;
     margin-left: 10px;
-    font-family: 'Lobster', sans-serif;
+    font-family: 'Segoe UI', sans-serif;
     font-size: 24px;
     color: #5d5d5d;
     font-weight: bold;
@@ -614,7 +614,7 @@ footer {
     width: 220px;
     margin: 0 auto;
     background: #fff;
-    font-family: 'Lobster', sans-serif;
+    font-family: 'Segoe UI', sans-serif;
     font-size: 24px;
     color: #5d5d5d;
     font-weight: bold;
